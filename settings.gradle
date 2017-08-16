@@ -1,0 +1,5 @@
+rootProject.name = 'tech-doc-librarian'
+include 'margaret'
+include 'publicist'
+include 'dewey'
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dewey/dewey.iml" filepath="$PROJECT_DIR$/.idea/modules/dewey/dewey.iml" group="dewey" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dewey/dewey_main.iml" filepath="$PROJECT_DIR$/.idea/modules/dewey/dewey_main.iml" group="dewey" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dewey/dewey_test.iml" filepath="$PROJECT_DIR$/.idea/modules/dewey/dewey_test.iml" group="dewey" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/margaret/margaret.iml" filepath="$PROJECT_DIR$/.idea/modules/margaret/margaret.iml" group="margaret" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/margaret/margaret_main.iml" filepath="$PROJECT_DIR$/.idea/modules/margaret/margaret_main.iml" group="margaret" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/margaret/margaret_test.iml" filepath="$PROJECT_DIR$/.idea/modules/margaret/margaret_test.iml" group="margaret" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/publicist/publicist.iml" filepath="$PROJECT_DIR$/.idea/modules/publicist/publicist.iml" group="publicist" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/publicist/publicist_main.iml" filepath="$PROJECT_DIR$/.idea/modules/publicist/publicist_main.iml" group="publicist" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/publicist/publicist_test.iml" filepath="$PROJECT_DIR$/.idea/modules/publicist/publicist_test.iml" group="publicist" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tech-doc-librarian.iml" filepath="$PROJECT_DIR$/.idea/modules/tech-doc-librarian.iml" />
+    </modules>
+  </component>
+</project>
